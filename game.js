@@ -33,7 +33,7 @@ function askGuess() {
             askGuess();
         } 
         else {
-            console.log("The secret number is SMALLER!");
+            console.log("The secret numbe is SMALLER!");
             askGuess();
         }
     });
